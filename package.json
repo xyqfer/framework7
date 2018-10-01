@@ -75,7 +75,7 @@
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.1",
     "hoek": "^5.0.4",
-    "husky": "^1.0.0-rc.13",
+    "husky": "^1.1.0",
     "phenome": "0.1.8",
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
