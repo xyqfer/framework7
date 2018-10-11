@@ -41,11 +41,6 @@
     "last 2 versions",
     "ie >= 10"
   ],
-  "husky": {
-    "hooks": {
-      "pre-push": "npm run lint"
-    }
-  },
   "dependencies": {
     "dom7": "^2.1.2",
     "path-to-regexp": "^2.4.0",
